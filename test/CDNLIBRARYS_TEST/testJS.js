@@ -1,4 +1,4 @@
-function createIframe(src, container, id) {
+function impotrtedMethodForCreatingIframe(src, container, id) {
     let sp = document.createElement("iframe");
     sp.id = id;
     sp.src = src;
